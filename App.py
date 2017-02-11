@@ -5,7 +5,7 @@ import thuser
 import thstatus 
 MSG=['PF','PO']
 DELTA_UP=0.0 # Stops the boiler as soon as the temperature reaches the ref
-DELTA_DOWN=0.3 # starts the boiler at Tref-0.3°C
+DELTA_DOWN=0.3 # starts the boiler at Tref-0.3C
 
 current=th1w.read_temp() 
 desire=thuser.getUser()

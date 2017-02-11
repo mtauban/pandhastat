@@ -17989,3 +17989,39 @@ NameError: global name 'delay' is not defined
 2017-02-11 10:03:02 19.625 19.5 0.0 PF
 2017-02-11 10:04:03 19.562 19.5 0.0 PF
 2017-02-11 10:05:03 19.625 19.5 0.0 PF
+2017-02-11 10:06:02 19.625 19.5 0.0 PF
+2017-02-11 10:07:02 19.625 19.5 0.0 PF
+2017-02-11 10:08:03 19.625 19.5 0.0 PF
+2017-02-11 10:09:03 19.625 19.5 0.0 PF
+2017-02-11 10:10:02 19.625 19.5 0.0 PF
+2017-02-11 10:11:02 19.562 19.5 0.0 PF
+2017-02-11 10:12:02 19.562 19.5 0.0 PF
+2017-02-11 10:13:03 19.625 19.5 0.0 PF
+2017-02-11 10:14:03 19.562 19.5 0.0 PF
+2017-02-11 10:15:03 19.5 19.5 0.0 PF
+2017-02-11 10:16:02 19.5 19.5 0.0 PF
+2017-02-11 10:17:03 19.437 19.5 0.0 PF
+2017-02-11 10:18:03 19.5 19.5 0.0 PF
+2017-02-11 10:19:03 19.5 19.5 0.0 PF
+2017-02-11 10:20:02 19.5 19.5 0.0 PF
+2017-02-11 10:21:02 19.437 19.5 0.0 PF
+2017-02-11 10:22:02 19.437 19.5 0.0 PF
+2017-02-11 10:23:03 19.5 19.5 0.0 PF
+2017-02-11 10:24:03 19.437 19.5 0.0 PF
+2017-02-11 10:25:02 19.437 19.5 0.0 PF
+2017-02-11 10:26:02 19.437 19.5 0.0 PF
+2017-02-11 10:27:02 19.5 19.5 0.0 PF
+2017-02-11 10:28:03 19.437 19.5 0.0 PF
+2017-02-11 10:29:03 19.437 19.5 0.0 PF
+2017-02-11 10:30:02 19.5 19.5 0.0 PF
+2017-02-11 10:31:02 19.437 19.5 0.0 PF
+2017-02-11 10:32:02 19.5 19.5 0.0 PF
+2017-02-11 10:33:03 19.5 19.5 0.0 PF
+2017-02-11 10:34:03 19.5 19.5 0.0 PF
+2017-02-11 10:35:03 19.437 19.5 0.0 PF
+  File "/home/pi/pandatemp/App.py", line 8
+SyntaxError: Non-ASCII character '\xc2' in file /home/pi/pandatemp/App.py on line 8, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+  File "/home/pi/pandatemp/App.py", line 8
+SyntaxError: Non-ASCII character '\xc2' in file /home/pi/pandatemp/App.py on line 8, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+  File "/home/pi/pandatemp/App.py", line 8
+SyntaxError: Non-ASCII character '\xc2' in file /home/pi/pandatemp/App.py on line 8, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
